@@ -1,0 +1,20 @@
+/* * .juice wrld{
+    position: relative;
+}
+
+.ninja{
+    position: absolute;
+    top: 0;
+    color: aqua;
+} * */
+
+
+.title{
+    display: flex;
+    background-color: aqua;
+    justify-content: space-around;
+    position: fixed;
+    width: 100%;
+    padding: 10px;
+    margin-top: -15px;
+}

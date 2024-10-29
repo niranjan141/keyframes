@@ -1,0 +1,37 @@
+.menubar{
+    width: 70px;
+    background-color: blue;
+    overflow: visible;
+    border: 2px solid black;
+}
+
+
+.menubar a{
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
+    color: black;
+    float: left;
+    width: 80px;
+}
+.first{
+    display: flex;
+    justify-content: space-around;
+    background-color: aqua;
+    padding: 20px;
+    border: 2px;
+    
+    
+}
+.second{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    background-color: blue;
+    width: fit-content;
+    height: 100vh;
+    padding: 20px;
+    border: 2px;;
+
+    
+}
